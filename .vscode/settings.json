@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "weekly-labs/lab-04/src",
+        "weekly-labs/lab-03/src",
+        "weekly-labs/lab-02/src",
+        "weekly-labs/lab-01/src",
+        "weekly-labs/lab-05/src"
+    ],
+    "java.project.referencedLibraries": []
+}
